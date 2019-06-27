@@ -1,0 +1,118 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amar Mahal Palace",
+        "hours": "9am - 5pm",
+        "phone": "0191 2546783",
+        "description": "The Amar Mahal Palace is a palace in Jammu, in the Indian state of Jammu and Kashmir, India, which has now been converted into a Museum."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8723,
+          32.7476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raghunath Temple",
+        "hours": "9am - 4pm",
+        "phone": "9682612781",
+        "description": "Raghunath Temple consists of a complex of seven Hindu shrines, located in Jammu in the Indian state of Jammu and Kashmir. The temple was built by Mahant Narottam Das during the first quarter of 19th-century when the region was under the Sikh ruler Maharaja Ranjit Singh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8620,
+          32.7305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dogra Art Museum",
+        "hours": "10am - 5pm",
+        "phone": "9797534868",
+        "description": "Museum of Dogra cultural heritage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8749,
+          32.7388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagh e Bahu",
+        "hours": "9am - 10pm",
+        "phone": "070062 74474",
+        "description": "Terraced gardens around an ancient fort."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8776,
+          32.7244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manda Zoo park",
+        "hours": "8:30am - 6pm",
+        "phone": "9797565438",
+        "description": " Tiny zoo with species  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8673,
+          32.7497
+        ]
+      }
+    },
+    {
+          "type": "Feature",
+          "properties": {
+            "name": "Mubarak Mandi Heritage",
+            "hours": "9am - 6pm",
+            "phone": "9797565438",
+            "description": "Sprawling palace complex from 1824  "
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              74.8745,
+              32.7393
+            ]
+          }
+        },
+        {
+              "type": "Feature",
+              "properties": {
+                "name": "Maha Maya Temple",
+                "hours": "8:30am - 6pm",
+                "phone": "9797565438",
+                "description": " Temple  "
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  74.8904557,
+                  32.730569
+
+                ]
+              }
+            }
+  ]
+}

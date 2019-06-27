@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.amanhans.mapbox_app.Main4Activity"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Welcome"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/good_morning"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:text="to"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:fontFamily="@font/good_morning"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:text="Intelligent Route"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:fontFamily="@font/good_morning"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:text="Planner"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:fontFamily="@font/good_morning"
+        android:textStyle="bold"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="Next"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/next"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:background="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        />
+</LinearLayout>
